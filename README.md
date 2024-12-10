@@ -1,7 +1,7 @@
 ![Laravel logotype min](https://github.com/dwightpascua/Oracle-Certificates/blob/main/OCI%20AI%20Certfied%20Foundations%20.jpg)
 ![Laravel logotype min](https://github.com/dwightpascua/Oracle-Certificates/blob/main/OCI%20Data%20Certified%20Foundations%20Associate.jpg)
 
-## <hl> Hi there, Py name ds D'Artanial Catabona </h1>
+## <hl> Dwight Lance Pascua </h1>
 I want to learn more about databases to improve my knowledge and skills. This will help me gain valuable experience in the IT industry.
 <h2>Education</h2> 
 BSIT 
