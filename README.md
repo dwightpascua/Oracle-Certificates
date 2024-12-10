@@ -10,7 +10,7 @@ New Era Univeristy
 <br> 
 2022-Present
 <h2>Certifications</h2>
-<a href= "https://l.facebook.com/l.php?u=https%3A%2F%2Fcatalog-education.oracle.com%2Fpls%2Fcertview%2Fsharebadge%3Fid%3D92BBE7F684787C714A051019928255D1F33205D37CF9CDB1F70FB4948373D603%26fbclid%3DIwZXh0bgNhZW0CMTEAAR1tgv0Go-hUdH3x7trRoKw5wtOjWO3MtLFPJwksxBDa-EUGe7WaEjU10Ig_aem_azxOSfwAh9BzVkn8O27ltA&h=AT1NMD8AXlr8FDfwbP6jEv-bVofseuyrgZi_QdrQzPJURh6rHX7U6UI0eJqjZhTq9W2tmJewoEs_5QlYQhtjHAe4ExzA65UIPKigPHgaf0idcT1fqcaxuDTUroqE0jIeZa-O&__tn__=H-R&c[0]=AT3d4iFLEyV2zK9NBP-4MOgqk1a0gV3-wOGJWV6YyEAYPZIMbtgxe5zPQ9I-T1Lx2zyTG84jTIhBYdmBMOfw1HA68-KsgoTnQ9waGYlf195-8-T0hfJaz48TZXogeH8hyEERM31IaVUOhRgS-_7SooCB0DDvOWnquJnIBaXsS5nfmuY4SBpRZwl2CHZduq9qA977Yw"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </a>
-<a href= "https://l.facebook.com/l.php?u=https%3A%2F%2Fcatalog-education.oracle.com%2Fpls%2Fcertview%2Fsharebadge%3Fid%3D92BBE7F684787C714A051019928255D1F33205D37CF9CDB1F70FB4948373D603%26fbclid%3DIwZXh0bgNhZW0CMTEAAR1tgv0Go-hUdH3x7trRoKw5wtOjWO3MtLFPJwksxBDa-EUGe7WaEjU10Ig_aem_azxOSfwAh9BzVkn8O27ltA&h=AT1NMD8AXlr8FDfwbP6jEv-bVofseuyrgZi_QdrQzPJURh6rHX7U6UI0eJqjZhTq9W2tmJewoEs_5QlYQhtjHAe4ExzA65UIPKigPHgaf0idcT1fqcaxuDTUroqE0jIeZa-O&__tn__=H-R&c[0]=AT3d4iFLEyV2zK9NBP-4MOgqk1a0gV3-wOGJWV6YyEAYPZIMbtgxe5zPQ9I-T1Lx2zyTG84jTIhBYdmBMOfw1HA68-KsgoTnQ9waGYlf195-8-T0hfJaz48TZXogeH8hyEERM31IaVUOhRgS-_7SooCB0DDvOWnquJnIBaXsS5nfmuY4SBpRZwl2CHZduq9qA977Yw"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </a>
+<a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=92BBE7F684787C714A051019928255D1F33205D37CF9CDB1F70FB4948373D603"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a>
+<a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=EB910E970871272D59BB2D01E316596F54A05096350FCA7D6B1C9D1CEE15CA89"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate </a>
  <br> 
 
